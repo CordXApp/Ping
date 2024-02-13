@@ -11,6 +11,10 @@ hosts:
     title: Paste Bin
   - name: api.cordx.lol
     title: API Site
+  - name: status.cordx.lol
+    title: Status Page
+  - name: proxy.cordx.lol
+    title: Proxy Server
 
 # Site configuration
 site:
