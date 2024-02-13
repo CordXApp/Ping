@@ -3,19 +3,21 @@
 # "title" will be displayed as "human name" instead of "name" if specified
 # All defaults values can be overriden per host basis
 hosts:
-  - name: cordximg.host
-    title: Main Site
-  - name: help.cordx.lol
-    title: Docs Site
-  - name: pastes.cordx.lol
-    title: Paste Bin
   - name: api.cordx.lol
     title: API Site
-  - name: status.cordx.lol
-    title: Status Page
+  - name: cordx.lol/blog
+    title: Blog Site
+  - name: help.cordx.lol
+    title: Docs Site
+  - name: cordximg.host
+    title: Main Site
+  - name: pastes.cordx.lol
+    title: Paste Bin
   - name: proxy.cordx.lol
     title: Proxy Server
-
+  - name: status.cordx.lol
+    title: Status Page
+    
 # Site configuration
 site:
   # Title
